@@ -29,6 +29,7 @@ void *teacher()
              break;
    }
    sleep(rand()%5);
+      
  }
 }
 void *Student_A()
